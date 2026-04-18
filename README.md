@@ -1,5 +1,6 @@
-# MySQL Basics Project
-This project contains basic SQL queries practiced using MySQL.
+# MySQL Basics Practice
+This repository contains basic SQL practice queries while learning MySQL fundamentals.
+
 ## Features
 - Create and use database
 - Create tables
@@ -19,4 +20,4 @@ This project contains basic SQL queries practiced using MySQL.
 - ALTER TABLE
 - DROP
 ## How it works
-The project demonstrate basic database operation by creating tables, inserting data and performing queries to retrieve and modify data.
+This repository demonstrate basic database operation by creating tables, inserting data and performing queries to retrieve and modify data.
